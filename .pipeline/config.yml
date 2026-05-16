@@ -30,7 +30,7 @@ stages:
 #  Integration:
 #    credentials:
 #      - alias: 'mySystemAlias'
-#        credentialId: 'mySystemCredentialsId'
+#        credentialId: 'deploy-to-cf'
 
 #  Release:
 #    cfTargets:
